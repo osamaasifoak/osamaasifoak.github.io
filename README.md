@@ -90,9 +90,10 @@ At Lunakware solutions, I performed my services as a Mobile developer specializi
 
 ## Recent Projects      
 **Servaid Plus (Pakistan's largest medical supply chain)**   
-***Servaid is an easy to use, convenient mobile app that allows you to order medicine of your choice straight from the store to your doorstep.***
+Servaid is an easy to use, convenient mobile app that allows you to order medicine of your choice straight from the store to your doorstep.
 
 **Tools: Flutter**
+
 **Url: [Playstore](https://play.google.com/store/apps/details?id=pk.com.servaid)**
 * Used provider for managing the states and single design pattern for making network singleton clients
 * Worked on implementing the Google Maps for marking franchise on map and reverse geocoding on user location for nearest store searching and product.
@@ -102,20 +103,22 @@ At Lunakware solutions, I performed my services as a Mobile developer specializi
 * Worked on implementing custom cart for handling user-selected products             
 
 **STRAPP - Connect with students**    
-***Strapp is a social media application for the University of Michigan, Toronto, and Michigan State. In this app, students can connect anonymously and do posting on universities group and feeds. And also able to chat comments and like user posts and gets update on universities news and trends.***
+Strapp is a social media application for the University of Michigan, Toronto, and Michigan State. In this app, students can connect anonymously and do posting on universities group and feeds. And also able to chat comments and like user posts and gets update on universities news and trends.
 
 **Tools: Flutter, GraaphQl**
-**Url: [Playstore](https://play.google.com/store/apps/details?id=com.trillapp&hl=en_GB&gl=US) | [Appstore](https://apps.apple.com/us/app/strapp-ai/id1525897388)**
+
+**Url: [Playstore](https://play.google.com/store/apps/details?id=com.trillapp&hl=en_GB&gl=US), [Appstore](https://apps.apple.com/us/app/strapp-ai/id1525897388)**
 * Worked on implementing GraphQl for managing user feeds and caching.         
 * Worked on implementing Firebase push notification, Firebase storage, and cloud firestore for real-time chat modules
 * Implemented deep linking and dynamic redirection of the screen on the notification and deep link events  
 * Worked on designing and developing business logic for dealing with use-case and scenarios      
 
 **Bilal Trucking**    
-***Tracking and managing your fleet can be done on the fly with Bilal Trucking Fleet Management Software for when you're out of the office, on the road, during emergencies, or working from home. Streamline fleet operations and increase productivity with Bilal Trucking App.***
+Tracking and managing your fleet can be done on the fly with Bilal Trucking Fleet Management Software for when you're out of the office, on the road, during emergencies, or working from home. Streamline fleet operations and increase productivity with Bilal Trucking App.
 
 **Tools: Flutter**
-**Url: [Playstore](https://play.google.com/store/apps/details?id=com.weuno.bilaltrucking) | [Appstore](https://apps.apple.com/us/app/bilal-trucking/id1575738606)**
+
+**Url: [Playstore](https://play.google.com/store/apps/details?id=com.weuno.bilaltrucking), [Appstore](https://apps.apple.com/us/app/bilal-trucking/id1575738606)**
 * Worked on the provider for managing the app state and single design pattern for making singleton network clients
 * Worked on implementing the app flows and process 
 * Implemented firebase notification and cloud firestore one o one chats
@@ -123,16 +126,17 @@ At Lunakware solutions, I performed my services as a Mobile developer specializi
 * Handled user authentication and also setup guest user and dealt with interceptors for verifying and validating user request
 
 **Rimattire**    
-***RIMITIRE, a Tyre Inventory App, was developed in order to quickly buy and sell tyre inventory for tyre shops, car dealers, and auto recyclers. If you're looking for the perfect tyre for your beauty, this app is your best bet.***
+RIMITIRE, a Tyre Inventory App, was developed in order to quickly buy and sell tyre inventory for tyre shops, car dealers, and auto recyclers. If you're looking for the perfect tyre for your beauty, this app is your best bet.
 
 **Tools: Flutter, GraaphQl**
-**Url: [Playstore](https://play.google.com/store/apps/details?id=com.weuno.rimattire) | [Appstore](https://apps.apple.com/us/app/rimattire/id1569861961)**
+
+**Url: [Playstore](https://play.google.com/store/apps/details?id=com.weuno.rimattire), [Appstore](https://apps.apple.com/us/app/rimattire/id1569861961)**
      
 
 **App links**    
-* Gem Galaxy [Playstore](https://play.google.com/store/apps/details?id=com.gemstone) | [Appstore](https://apps.apple.com/us/app/gem-galaxy/id1573288917)
-* Clickdrive [Playstore](https://play.google.com/store/apps/details?id=com.cloudprimero.clickdrive) | [Appstore](https://apps.apple.com/ml/app/clickdrive/id1525796033)  
-* Calcium Robber [Playstore](https://play.google.com/store/apps/details?id=com.getz.calciumrobbers) | [Appstore](https://apps.apple.com/bb/app/calcium-robber/id1569800812)    
+* Gem Galaxy [Playstore](https://play.google.com/store/apps/details?id=com.gemstone), [Appstore](https://apps.apple.com/us/app/gem-galaxy/id1573288917)
+* Clickdrive [Playstore](https://play.google.com/store/apps/details?id=com.cloudprimero.clickdrive), [Appstore](https://apps.apple.com/ml/app/clickdrive/id1525796033)  
+* Calcium Robber [Playstore](https://play.google.com/store/apps/details?id=com.getz.calciumrobbers), [Appstore](https://apps.apple.com/bb/app/calcium-robber/id1569800812)    
 
 
 ### Links        
