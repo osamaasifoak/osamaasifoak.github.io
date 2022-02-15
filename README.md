@@ -59,17 +59,13 @@ At Lunakware solutions, I performed my services as a Mobile developer specializi
 * React.js   
 * TypeScript, JavaScript - NPM, Yarn, Webpack      
 * GraphQL            
-* Libraries: Bootstrap, Material UI, Redux       
-* HTML Canvas     
-* CSS -  Grids, flexbox, Media Queries, Responsive Web Design       
-* Shopify Themes, Liquid Templates and StoreFront API     
+* Libraries: Bootstrap, Material UI, Redux 
+* CSS -  Grids, flexbox, Media Queries, Responsive Web Design 
 
 ### Back End           
 * Node.js - Express.js    
 * NoSQL - MongoDB, Firebase FireStore   
-* SQL Databases - MS SQL Server, MySQL, SQLite    
-* Authentication - OAuth, JWT, Identity on .Net        
-* Python - Experience in scripting and task automation      
+* SQL Databases - MS SQL Server, MySQL, SQLite             
 * Experienced in developing API using Node Js      
 
 ### Project Management Skill            
@@ -126,7 +122,7 @@ Tracking and managing your fleet can be done on the fly with Bilal Trucking Flee
 * Handled user authentication and also setup guest user and dealt with interceptors for verifying and validating user request
 
 **Rimattire**    
-RIMITIRE, a Tyre Inventory App, was developed in order to quickly buy and sell tyre inventory for tyre shops, car dealers, and auto recyclers. If you're looking for the perfect tyre for your beauty, this app is your best bet.
+RIMATTIRE, a Tyre Inventory App, was developed in order to quickly buy and sell tire inventory for tire shops, car dealers, and auto recyclers. If you're looking for the perfect tire for your beauty, this app is your best bet.
 
 **Tools: Flutter, GraaphQl**
 
