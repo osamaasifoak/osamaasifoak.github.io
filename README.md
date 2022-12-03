@@ -105,7 +105,7 @@ At Lunakware solutions, I performed my services as a Mobile developer specializi
 **Servaid Plus (Pakistan's largest medical supply chain)**   
 Servaid is an easy to use, convenient mobile app that allows you to order medicine of your choice straight from the store to your doorstep.
 
-**Tools: Flutter**
+**Tools: Flutter, Firebase**
 
 **Url: [Playstore](https://play.google.com/store/apps/details?id=pk.com.servaid)**
 * Used provider for managing the states and single design pattern for making network singleton clients
@@ -118,7 +118,7 @@ Servaid is an easy to use, convenient mobile app that allows you to order medici
 **STRAPP - Connect with students**    
 Strapp is a social media application for the University of Michigan, Toronto, and Michigan State. In this app, students can connect anonymously and do posting on universities group and feeds. And also able to chat comments and like user posts and gets update on universities news and trends.
 
-**Tools: Flutter, GraaphQl**
+**Tools: Flutter, GraaphQl, Firestore**
 
 **Url: [Playstore](https://play.google.com/store/apps/details?id=com.trillapp&hl=en_GB&gl=US), [Appstore](https://apps.apple.com/us/app/strapp-ai/id1525897388)**
 * Worked on implementing GraphQl for managing user feeds and caching.         
