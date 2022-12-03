@@ -4,20 +4,26 @@
  **Languages : English (Fluent)**    
 
 ### Professional Summary   
-- 4+ years of strong experience in Flutter (iOS + Android + Web) hybrid mobile application development
+- 5+ years of strong experience in (Flutter & React-Native) (iOS + Android) hybrid mobile application development
 - Experienced in React-Native (Js + Ts) mobile development.
-- 1+ years of experience in building applications using the MERN Stack using Redux, ES6, and Web-Pack for Single Page Application development. 
-- Strong Knowledge of state management (Redux, Provider, and Bloc).
+- 1.5+ years of experience in building applications using the MERN Stack using Redux, ES6, and Web-Pack for Single Page Application development. 
+- Strong Knowledge of state management (Redux, Redux toolkit, Provider, and Bloc).
 - Strong grasp over core software development practices and concepts
 - Flutter enthusiast with the privilege of doing flutter development since the advent of the framework. I've published multiple packages and regularly contribute to flutter stack    
 - Strong fundamental knowledge of Software Engineering principles, Design patterns, and Best practices
 
 ### Work Experience    
 **Senior Software Engineer - ZEPCOM (July 2021 - Present)**     
-I'm working as a senior software engineer React-Native and Flutter. My work includes client meetings mainly in the USA, creating project architecture and timelines. Here I'm also working on the MERN stack along with React-Native and Flutter. And I'm also responsible for deploying the app on Apple and Google app marketplace. Here I've completed 2 certifications in MongoDB and learned about various application architecture patterns and best practices. 
-    
+I'm working as a senior software engineer Flutter and React-Native. My work includes client meetings mainly in the USA, creating project architecture and timelines. Here I'm also working on the MERN stack along with React-Native and Flutter. And I'm also responsible for deploying the app on Apple and Google app marketplace. Here I've completed 2 certifications in MongoDB and learned about various application architecture patterns and best practices. 
+
+**Senior Software Engineer (Contractual) - GBK Legal (Nuremberg, Bavaria, Germany) (Jun 2022 - Present)**
+In GBK Legal, I developed their, TAX refund system. Here, I'm responsible for the complete development of the mobile application and their web admin panel, creating a features timeline, and deploying the app on the marketplace.   
+
+**Senior Software Engineer (Contractual) - STRAPP (USA) (Oct 2020 - Jun 2022)**
+In STRAP, I developed their, social media platform for the University of Michigan, the University of Toronto, and State Michigan University. I was responsible for the complete development of the mobile application, creating a features timeline, and deploying the app on the marketplace.   
+
 **Senior Software Engineer - Weuno Agency. (July 2019-Aug 2021)**    
-In this firm, I worked as a senior software engineer flutter. Here I've worked on many varieties of products including Pakistan's Largest medical chain e-commerce, auction, trucking system, and social media app for the University of Michigan. I lead the team in several projects and am responsible for delivering products in a timely manner.
+In this firm, I worked as a senior software engineer flutter. Here I've worked on many varieties of products including Pakistan's Largest medical chain e-commerce mobile app, auction application and logistic system, etc. I lead the team in several projects and was responsible for delivering products in a timely manner.
 
 **Software Engineer - Lunakware Solutions (Jan 2018/June 2019)**    
 At Lunakware solutions, I performed my services as a Mobile developer specializing in React-Native and Flutter. My primary role was developing, testing, and enhancing existing apps and developing scalable apps from scratch. I also worked on PHP CodeIgniter Web applications, provided deployment services to the team.        
@@ -57,14 +63,14 @@ At Lunakware solutions, I performed my services as a Mobile developer specializi
 
 ### Front End      
 * React.js   
-* TypeScript, JavaScript - NPM, Yarn, Webpack      
-* GraphQL            
+* TypeScript, JavaScript - NPM, Yarn, Webpack                 
 * Libraries: Bootstrap, Material UI, Redux 
 * CSS -  Grids, flexbox, Media Queries, Responsive Web Design 
 
 ### Back End           
 * Node.js - Express.js    
 * NoSQL - MongoDB, Firebase FireStore   
+* GraphQL 
 * SQL Databases - MS SQL Server, MySQL, SQLite             
 * Experienced in developing API using Node Js      
 
@@ -85,6 +91,17 @@ At Lunakware solutions, I performed my services as a Mobile developer specializi
 
 
 ## Recent Projects      
+**Steuermachen - Die Steuer-App**   
+
+**Tools: Flutter, Node, Firestore and Flutter Web**
+
+**Url: [Appstore](https://apps.apple.com/ie/app/steuermachen/id1601210495), [Playstore](https://play.google.com/store/apps/details?id=de.steuermachen.app&pli=1)**
+* Used provider for managing the states and single design pattern for making network singleton clients
+* Implemented firebase notification and web views for dynamic and continuously changing webpages and worked on web view javascript function to deal with the events
+* Used MVVM architecture and also applied best practices by separating business logic from UI 
+* Worked on Flutter web for creating an admin panel
+* Implemented the Navigation 2.0 using go_router
+  
 **Servaid Plus (Pakistan's largest medical supply chain)**   
 Servaid is an easy to use, convenient mobile app that allows you to order medicine of your choice straight from the store to your doorstep.
 
