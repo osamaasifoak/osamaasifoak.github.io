@@ -8,7 +8,6 @@
 - Experienced in React-Native (Js + Ts) mobile development.
 - 1.5+ years of experience in building applications using the MERN Stack using Redux, ES6, and Web-Pack for Single Page Application development. 
 - Strong Knowledge of state management (Redux, Redux toolkit, Provider, and Bloc).
-- Strong grasp over core software development practices and concepts
 - Flutter enthusiast with the privilege of doing flutter development since the advent of the framework. I've published multiple packages and regularly contribute to flutter stack    
 - Strong fundamental knowledge of Software Engineering principles, Design patterns, and Best practices
 
