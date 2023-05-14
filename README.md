@@ -1,8 +1,8 @@
-# **Osama Asif** 
-#### Senior Software Engineer
- Email: **osama.asif20@gmail.com**
- phone: **+92-309-2783699**
-Languages : **English (Fluent)**  
+# **Osama Asif**    
+#### Senior Software Engineer   
+ Email: **osama.asif20@gmail.com**  
+ phone: **+92-309-2783699**     
+Languages : **English (Fluent)**    
 
 ### **Professional Summary**    
 Experienced software engineer with a strong background in developing mobile applications. 5+ years of industry experience includes client meetings, requirements gathering, developing small to large-scale mobile apps, and leading engineering teams to achieve concrete goals on a strict deadline. Strong skills include Flutter, React-Native & MERN.
@@ -11,70 +11,70 @@ Experienced software engineer with a strong background in developing mobile appl
 #### Senior Software Engineer (Flutter)
 **Medito Foundation ~ Amsterdam Netherlands (Jan 2023 - Present)**     
 Currently working on Meditation app which has more than 1.6M downloads. The app is developed using Flutter
-> • Revamping the app to the latest version of Flutter and improving the app performance and code quality.
-> • Collaboration with the development team to constantly innovate app functionality and design.
-> • Responsible for creating GitHub tickets, PR, and features timeline.
-> • Design app architecture and translate Figma design into the mobile app.
-> • Involve in requirement gathering and designing of the application. 
-> • Developed cool features like an audio player, user streaks, mini player, etc.
-> • Implemented stats-sharing features and customized web views.
-> • Implemented deep-linking, dynamic links, and push notifications.
-> • Responsible for writing unit tests for each feature. 
-> • Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency.
+> • Revamping the app to the latest version of Flutter and improving the app performance and code quality.      
+> • Collaboration with the development team to constantly innovate app functionality and design.    
+> • Responsible for creating GitHub tickets, PR, and features timeline. 
+> • Design app architecture and translate Figma design into the mobile app. 
+> • Involve in requirement gathering and designing of the application.  
+> • Developed cool features like an audio player, user streaks, mini player, etc.   
+> • Implemented stats-sharing features and customized web views.    
+> • Implemented deep-linking, dynamic links, and push notifications.    
+> • Responsible for writing unit tests for each feature.    
+> • Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency.  
 
 ***Skills:*** Flutter, Firebase, Riverpod, Audio Player, Dio, Freezed, Json Annotation, Go Router 
 
-#### Senior Software Engineer (Flutter & React-Native)
-**ZEPCOM ~ US All-Shore Staffing (July 2021 - Present)**     
-At Zepcom, I’m working as a senior software engineer. Here I am responsible for developing mobile apps, project estimations, project planning, and sprint planning meetings with clients. 
-> • Provide service to their clients and developed many hybrid applications using Flutter and React-Native platforms.
-> • Collaboration with the development team to constantly innovate app functionality and design.
-> • Use tools like Clickup for the project progress and time estimation.
-> • Attend scrum and sprint planning meetings.
-> • Attend client meetings for the requirements gathering and implementation decisions for the development of their applications. 
-> • Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency.
+#### Senior Software Engineer (Flutter & React-Native)  
+**ZEPCOM ~ US All-Shore Staffing (July 2021 - Present)**        
+At Zepcom, I’m working as a senior software engineer. Here I am responsible for developing mobile apps, project estimations, project planning, and sprint planning meetings with clients.  
+> • Provide service to their clients and developed many hybrid applications using Flutter and React-Native platforms.   
+> • Collaboration with the development team to constantly innovate app functionality and design.    
+> • Use tools like Clickup for the project progress and time estimation.    
+> • Attend scrum and sprint planning meetings.  
+> • Attend client meetings for the requirements gathering and implementation decisions for the development of their applications.   
+> • Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency.  
 
-***Skills:*** Flutter, React-Native, MERN, SQ-Lite, Firebase, Redux, RKT, Hooks, Provider, Bloc, Riverpod, Axios, Dio, Figma, React-Navigation
+***Skills:*** Flutter, React-Native, MERN, SQ-Lite, Firebase, Redux, RKT, Hooks, Provider, Bloc, Riverpod, Axios, Dio, Figma, React-Navigation  
+#### Senior Software Engineer Flutter (Contractual)     
+**GBK Legal ~ Nuremberg, Bavaria, Germany (Jun 2022 - Jan 2023)**   
+I developed their, TAX refund system. Here, I was responsible for the complete development of the mobile application and its web admin panel.   
+> • Designed and developed their TAX refund web & mobile app.   
+> • Designed the database schema with the backend team. 
+> • Developed dynamic forms and implemented third-party APIs for Sumup for online payment integration.  
+> • Developed admin panel using Flutter web which includes (Role-based access, User management, Multiple tax modules, Payment modules, and, chatting system, etc.   
+> • Build their mobile app from scratch and deployed it to the marketplaces (Appstore & Playstore). 
+> • Set up their server environment for the admin panel deployment.     
+
+***Skills:*** Flutter, Flutter Web, Firestore, Provider, Dio, Figma, Database design, PDF generator 
 #### Senior Software Engineer Flutter (Contractual) 
-**GBK Legal ~ Nuremberg, Bavaria, Germany (Jun 2022 - Jan 2023)**
-I developed their, TAX refund system. Here, I was responsible for the complete development of the mobile application and its web admin panel.
-> • Designed and developed their TAX refund web & mobile app.
-> • Designed the database schema with the backend team.
-> • Developed dynamic forms and implemented third-party APIs for Sumup for online payment integration.
-> • Developed admin panel using Flutter web which includes (Role-based access, User management, Multiple tax modules, Payment modules, and, chatting system, etc.
-> • Build their mobile app from scratch and deployed it to the marketplaces (Appstore & Playstore).
-> • Set up their server environment for the admin panel deployment. 
+**STRAPP ~ New York, USA (Oct 2020 - Jun 2022)**    
+At STRAP, I developed their, social media platform for the University of Michigan, the University of Toronto, and State Michigan University. I was responsible for the complete development of the mobile application, creating a features timeline, and deploying the app on the marketplace.    
+> • Improved and developed some features of their previously developed application which was on React-Native TypeScript.    
+> • Revamped their mobile application using Flutter.    
+> • Translated the Figma design into a fully functional mobile app. 
+> • Implemented deep-linking, dynamic links, and push notifications.    
+> • Developed public feeds, group feeds, post-sharing features, anonymous chat features, etc.   
+> • Build their mobile app from scratch and deployed it to the marketplaces (Appstore & Playstore). 
 
-***Skills:*** Flutter, Flutter Web, Firestore, Provider, Dio, Figma, Database design, PDF generator
-#### Senior Software Engineer Flutter (Contractual)
-**STRAPP ~ New York, USA (Oct 2020 - Jun 2022)**
-At STRAP, I developed their, social media platform for the University of Michigan, the University of Toronto, and State Michigan University. I was responsible for the complete development of the mobile application, creating a features timeline, and deploying the app on the marketplace.   
-> • Improved and developed some features of their previously developed application which was on React-Native TypeScript.
-> • Revamped their mobile application using Flutter.
-> • Translated the Figma design into a fully functional mobile app.
-> • Implemented deep-linking, dynamic links, and push notifications.
-> • Developed public feeds, group feeds, post-sharing features, anonymous chat features, etc.
-> • Build their mobile app from scratch and deployed it to the marketplaces (Appstore & Playstore).
+***Skills:*** Flutter, Flutter Web, Firestore, Provider, Dio, Figma 
+### Senior Software Engineer (Flutter & React-Native)   
+**Weuno Agency. (July 2018 - Aug 2021)**    
+At Weuno, I worked as a senior software engineer. Here I worked on many varieties of products including Pakistan's Largest medical chain e-commerce mobile app, auction application and logistic system, etc. I Led the team in several projects and was responsible for delivering products promptly.  
+> • Developed Android and IOS applications using Flutter & React-Native, delivered stable, testable, and maintainable apps. 
+> • Created project estimations, project plans, and risk assessments for each application in development.   
+> • Developed auction systems, e-commerce, logistics, and survey applications.  
+> • Strongly bound with the design and the backend team.    
+> • Led the mobile app team consisting of 2 to 3 developers.    
 
-***Skills:*** Flutter, Flutter Web, Firestore, Provider, Dio, Figma
-### Senior Software Engineer (Flutter & React-Native)
-**Weuno Agency. (July 2018 - Aug 2021)**
-At Weuno, I worked as a senior software engineer. Here I worked on many varieties of products including Pakistan's Largest medical chain e-commerce mobile app, auction application and logistic system, etc. I Led the team in several projects and was responsible for delivering products promptly.
-> • Developed Android and IOS applications using Flutter & React-Native, delivered stable, testable, and maintainable apps.
-> • Created project estimations, project plans, and risk assessments for each application in development.
-> • Developed auction systems, e-commerce, logistics, and survey applications.
-> • Strongly bound with the design and the backend team.
-> • Led the mobile app team consisting of 2 to 3 developers.
+### Software Engineer   
+**Lunakware Solutions (Jan 2017 - June 2018)**  
+At Lunakware Solutions, I performed my services as a Mobile developer specializing in React-Native and Flutter. My primary role was developing, testing, and enhancing existing apps and developing scalable apps from scratch. I also worked on PHP CodeIgniter Web applications and provided deployment services to the team.      
+> • Developed live ordering system, merchandising application, and ticketing system.    
+> • Communicated with clients face to face to gather requirements, explain existing applications, provide suggestions for the expected application, and demonstrated applications on each playback at the client site    
 
-### Software Engineer  
-**Lunakware Solutions (Jan 2017 - June 2018)**
-At Lunakware Solutions, I performed my services as a Mobile developer specializing in React-Native and Flutter. My primary role was developing, testing, and enhancing existing apps and developing scalable apps from scratch. I also worked on PHP CodeIgniter Web applications and provided deployment services to the team.    
-> • Developed live ordering system, merchandising application, and ticketing system.
-> • Communicated with clients face to face to gather requirements, explain existing applications, provide suggestions for the expected application, and demonstrated applications on each playback at the client site
+***Skills:*** Flutter, React-Native, React, HTML, CSS, Codeigniter, WordPress   
 
-***Skills:*** Flutter, React-Native, React, HTML, CSS, Codeigniter, WordPress
-
-### Education    
+### Education   
  **Bachelors in Computer Science**    
     Iqra University 2017-2021    
  **Intermediate in Computer Science**    
@@ -92,37 +92,37 @@ At Lunakware Solutions, I performed my services as a Mobile developer specializi
 * [Geekle us Flutter Global summit tech talk](https://youtu.be/RvFStiPmKkI?t=15430) 
 
 ### Areas of Expertise      
-* Extensive knowledge about mobile app development. This includes the whole process, from the first line of code to publishing in the store(s)
-* Good knowledge of Flutter, Flutter Web, and React-Native
-* Proficiency with state management tools like Provider, Riverpod, Bloc, Redux, Redux Thunk, and Hooks.
-* Proficiency with navigation libraries like Go-Router and React-Navigation.
-* Proficiency with code generation tools like Json Annotation and Freezed.
-* Proficiency with writing automated tests in Flutter, Mocktail, Espresso, Mocha, Jest, etc.
-* Proficiency with RESTful APIs and mobile libraries for networking, specifically Dio, Axios, HTTP.
-* Experience with profiling and debugging mobile applications
-* Strong knowledge of architectural patterns MVC, MVVM, and Clean Architecture—and the ability to choose the best solution for the app
-* Command on handling code and versioning with Git
-* Proficiency with push notifications, Firebase storage, deep linking, background services, camera handling, third-party library implementation, etc.
+* Extensive knowledge about mobile app development. This includes the whole process, from the first line of code to publishing in the store(s)  
+* Good knowledge of Flutter, Flutter Web, and React-Native  
+* Proficiency with state management tools like Provider, Riverpod, Bloc, Redux, Redux Thunk, and Hooks. 
+* Proficiency with navigation libraries like Go-Router and React-Navigation.    
+* Proficiency with code generation tools like Json Annotation and Freezed.  
+* Proficiency with writing automated tests in Flutter, Mocktail, Espresso, Mocha, Jest, etc.    
+* Proficiency with RESTful APIs and mobile libraries for networking, specifically Dio, Axios, HTTP. 
+* Experience with profiling and debugging mobile applications.     
+* Strong knowledge of architectural patterns MVC, MVVM, and Clean Architecture—and the ability to choose the best solution for the app. 
+* Command on handling code and versioning with Git. 
+* Proficiency with push notifications, Firebase storage, deep linking, background services, camera handling, third-party library implementation, etc.   
 
 ### Mobile     
-* Flutter
-* React-Native TS, JS
-* Android Java
-* Familiar with Ios and Ionic
+* Flutter   
+* React-Native TS, JS   
+* Android Java  
+* Familiar with Ios and Ionic   
 
 ### Front End      
 * React.js   
-* Flutter Web
-* TypeScript, JavaScript - NPM, Yarn, Webpack                 
+* Flutter Web   
+* TypeScript, JavaScript - NPM, Yarn, Webpack           
 * Libraries: Bootstrap, Material UI, Redux 
-* CSS -  Grids, flexbox, Media Queries, Responsive Web Design 
+* CSS -  Grids, flexbox, Media Queries, Responsive Web Design   
 
 ### Back End           
-* Node.js - Express.js    
-* NoSQL - MongoDB, Firebase FireStore   
-* GraphQL 
-* SQL Databases - MS SQL Server, MySQL, SQLite             
-* Experienced in developing API using Node Js      
+* Node.js - Express.js      
+* NoSQL - MongoDB, Firebase FireStore       
+* GraphQL   
+* SQL Databases - MS SQL Server, MySQL, SQLite                
+* Experienced in developing API using Node Js        
 
 ### Project Management Skill            
 * Experienced in gathering requirements and translating technical information from stakeholders to developer teams             
