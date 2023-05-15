@@ -1,6 +1,6 @@
 
 # **Osama Asif**    
-#### Senior Software Engineer   
+#### **Senior Software Engineer**      
  Email: **osama.asif20@gmail.com**  
  phone: **+92-309-2783699**     
 Languages : **English (Fluent)**    
@@ -9,7 +9,7 @@ Languages : **English (Fluent)**
 Experienced software engineer with a strong background in developing mobile applications. 5+ years of industry experience includes client meetings, requirements gathering, developing small to large-scale mobile apps, and leading engineering teams to achieve concrete goals on a strict deadline. Strong skills include Flutter, React-Native & MERN.
 
 ### **Work Experience**   
-#### Senior Software Engineer (Flutter)
+#### **Senior Software Engineer (Flutter)** 
 **Medito Foundation ~ Amsterdam Netherlands (Jan 2023 - Present)**     
 Currently working on Meditation app which has more than 1.6M downloads. The app is developed using Flutter
 - Revamping the app to the latest version of Flutter and improving the app performance and code quality.      
@@ -25,7 +25,7 @@ Currently working on Meditation app which has more than 1.6M downloads. The app 
 
 > ***Skills:*** Flutter, Firebase, Riverpod, Audio Player, Dio, Freezed, Json Annotation, Go Router 
 
-#### Senior Software Engineer (Flutter & React-Native)  
+#### **Senior Software Engineer (Flutter & React-Native)**    
 **ZEPCOM ~ US All-Shore Staffing (July 2021 - Present)**        
 At Zepcom, I’m working as a senior software engineer. Here I am responsible for developing mobile apps, project estimations, project planning, and sprint planning meetings with clients.  
 - Provide service to their clients and developed many hybrid applications using Flutter and React-Native platforms.   
@@ -37,7 +37,7 @@ At Zepcom, I’m working as a senior software engineer. Here I am responsible fo
 
 > ***Skills:*** Flutter, React-Native, MERN, SQ-Lite, Firebase, Redux, RKT, Hooks, Provider, Bloc, Riverpod, Axios, Dio, Figma, React-Navigation  
 
-#### Senior Software Engineer Flutter (Contractual)     
+#### **Senior Software Engineer Flutter (Contractual)**      
 **GBK Legal ~ Nuremberg, Bavaria, Germany (Jun 2022 - Jan 2023)**   
 I developed their, TAX refund system. Here, I was responsible for the complete development of the mobile application and its web admin panel.   
 - Designed and developed their TAX refund web & mobile app.   
@@ -49,7 +49,7 @@ I developed their, TAX refund system. Here, I was responsible for the complete d
 
 > ***Skills:*** Flutter, Flutter Web, Firestore, Provider, Dio, Figma, Database design, PDF generator 
 
-#### Senior Software Engineer Flutter (Contractual) 
+#### **Senior Software Engineer Flutter (Contractual)**  
 **STRAPP ~ New York, USA (Oct 2020 - Jun 2022)**    
 At STRAP, I developed their, social media platform for the University of Michigan, the University of Toronto, and State Michigan University. I was responsible for the complete development of the mobile application, creating a features timeline, and deploying the app on the marketplace.    
 - Improved and developed some features of their previously developed application which was on React-Native TypeScript.    
@@ -61,7 +61,7 @@ At STRAP, I developed their, social media platform for the University of Michiga
 
 > ***Skills:*** Flutter, Flutter Web, Firestore, Provider, Dio, Figma 
 
-### Senior Software Engineer (Flutter & React-Native)   
+### **Senior Software Engineer (Flutter & React-Native)**      
 **Weuno Agency. (July 2018 - Aug 2021)**    
 At Weuno, I worked as a senior software engineer. Here I worked on many varieties of products including Pakistan's Largest medical chain e-commerce mobile app, auction application and logistic system, etc. I Led the team in several projects and was responsible for delivering products promptly.  
 - Developed Android and IOS applications using Flutter & React-Native, delivered stable, testable, and maintainable apps. 
@@ -72,7 +72,7 @@ At Weuno, I worked as a senior software engineer. Here I worked on many varietie
 
 > ***Skills:*** Flutter, Flutter Web, React-Native, React, Firestore, Provider, Dio, Figma, Zeplin, Adobe XD, Electron
 
-### Software Engineer   
+### **Software Engineer**   
 **Lunakware Solutions (Jan 2017 - June 2018)**  
 At Lunakware Solutions, I performed my services as a Mobile developer specializing in React-Native and Flutter. My primary role was developing, testing, and enhancing existing apps and developing scalable apps from scratch. I also worked on PHP CodeIgniter Web applications and provided deployment services to the team.      
 - Developed live ordering system, merchandising application, and ticketing system.    
@@ -80,7 +80,7 @@ At Lunakware Solutions, I performed my services as a Mobile developer specializi
 
 > ***Skills:*** Flutter, React-Native, React, HTML, CSS, Codeigniter, WordPress   
 
-### Education   
+### **Education**   
  **Bachelors in Computer Science**    
     Iqra University 2017-2021    
  **Intermediate in Computer Science**    
@@ -88,16 +88,16 @@ At Lunakware Solutions, I performed my services as a Mobile developer specializi
  **Matriculation**    
     Karachi Board of Secondary Education 2012-2013    
 
-### Certifications 
+### **Certifications** 
 * [MongoDB for Javascript Developer](https://university.mongodb.com/course_completion/c4125f25-9097-40ca-a5d2-62c9451aba0c?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)             
 * [MongoDB Basics](https://university.mongodb.com/course_completion/3ecfcef3-1956-4c22-814d-7604f71a0654?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing) 
 
-### Publications   
+### **Publications**   
 * [Flutter cart](https://pub.dev/packages/flutter_cart)                  
 * [Medium articles](https://medium.com/@osamaasif) 
 * [Geekle us Flutter Global summit tech talk](https://youtu.be/RvFStiPmKkI?t=15430) 
 
-### Areas of Expertise      
+### **Areas of Expertise**        
 * Extensive knowledge about mobile app development. This includes the whole process, from the first line of code to publishing in the store(s)  
 * Good knowledge of Flutter, Flutter Web, and React-Native  
 * Proficiency with state management tools like Provider, Riverpod, Bloc, Redux, Redux Thunk, and Hooks. 
@@ -110,41 +110,38 @@ At Lunakware Solutions, I performed my services as a Mobile developer specializi
 * Command on handling code and versioning with Git. 
 * Proficiency with push notifications, Firebase storage, deep linking, background services, camera handling, third-party library implementation, etc.   
 
-### Mobile     
+### **Mobile**     
 * Flutter   
 * React-Native TS, JS   
 * Android Java  
 * Familiar with Ios and Ionic   
 
-### Front End      
+### **Front End**      
 * React.js   
 * Flutter Web   
 * TypeScript, JavaScript - NPM, Yarn, Webpack           
 * Libraries: Bootstrap, Material UI, Redux 
 * CSS -  Grids, flexbox, Media Queries, Responsive Web Design   
 
-### Back End           
+### **Back End**           
 * Node.js - Express.js      
 * NoSQL - MongoDB, Firebase FireStore       
 * GraphQL   
 * SQL Databases - MS SQL Server, MySQL, SQLite                
 * Experienced in developing API using Node Js        
 
-### Project Management Skill            
+### **Project Management Skill**            
 * Experienced in gathering requirements and translating technical information from stakeholders to developer teams             
 * Team collaboration experience Proofhub, Clickup, GitHub for Teams, and Atlassian JIRA     
 
-### Quality Assurance Testing    
-* Experience in Unit Testing, Functional Testing, Quality Assurance, and Test-Driven Development          
-
-### Architectural & Development Experience in using     
+### **Architectural & Development Experience in using**     
 * Feature Driven Architecture     
 * Test Driven Development       
 * Object Oriented Programming         
 * Design & Behavorial patterns (MVC, MVVM etc.)      
 
 
-## Recent Projects      
+## **Recent Projects**      
 **Steuermachen - Die Steuer-App**   
 
 **Tools: Flutter, Node, Firestore and Flutter Web**
@@ -180,30 +177,12 @@ Strapp is a social media application for the University of Michigan, Toronto, an
 * Implemented deep linking and dynamic redirection of the screen on the notification and deep link events  
 * Worked on designing and developing business logic for dealing with use-case and scenarios      
 
-**Bilal Trucking**    
-Tracking and managing your fleet can be done on the fly with Bilal Trucking Fleet Management Software for when you're out of the office, on the road, during emergencies, or working from home. Streamline fleet operations and increase productivity with Bilal Trucking App.
-
-**Tools: Flutter**
-
-**Url: [Playstore](https://play.google.com/store/apps/details?id=com.weuno.bilaltrucking), [Appstore](https://apps.apple.com/us/app/bilal-trucking/id1575738606)**
-* Worked on the provider for managing the app state and single design pattern for making singleton network clients
-* Worked on implementing the app flows and process 
-* Implemented firebase notification and cloud firestore one o one chats
-* Worked on implicit and as well as animations
-* Handled user authentication and also setup guest user and dealt with interceptors for verifying and validating user request
-
-**Rimattire**    
-RIMATTIRE, a Tyre Inventory App, was developed in order to quickly buy and sell tire inventory for tire shops, car dealers, and auto recyclers. If you're looking for the perfect tire for your beauty, this app is your best bet.
-
-**Tools: Flutter, GraaphQl**
-
-**Url: [Playstore](https://play.google.com/store/apps/details?id=com.weuno.rimattire), [Appstore](https://apps.apple.com/us/app/rimattire/id1569861961)**
-     
-
 **App links**    
+* Bilal Trucking [Playstore](https://play.google.com/store/apps/details?id=com.weuno.bilaltrucking), [Appstore](https://apps.apple.com/us/app/bilal-trucking/id1575738606)
 * Gem Galaxy [Playstore](https://play.google.com/store/apps/details?id=com.gemstone), [Appstore](https://apps.apple.com/us/app/gem-galaxy/id1573288917)
 * Clickdrive [Playstore](https://play.google.com/store/apps/details?id=com.cloudprimero.clickdrive), [Appstore](https://apps.apple.com/ml/app/clickdrive/id1525796033)  
-* Calcium Robber [Playstore](https://play.google.com/store/apps/details?id=com.getz.calciumrobbers), [Appstore](https://apps.apple.com/bb/app/calcium-robber/id1569800812)  
+* Calcium Robber [Playstore](https://play.google.com/store/apps/details?id=com.getz.calciumrobbers), [Appstore](https://apps.apple.com/bb/app/calcium-robber/id1569800812)
+* Rimattire [Playstore](https://play.google.com/store/apps/details?id=com.weuno.rimattire), [Appstore](https://apps.apple.com/us/app/rimattire/id1569861961)
 * Verona Marble [Playstore](https://play.google.com/store/apps/details?id=com.veronamarble&hl=pa&gl=US), [Appstore](https://apps.apple.com/us/app/verona-marble/id1633500185)    
 
 ### Links        
