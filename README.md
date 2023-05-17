@@ -10,7 +10,7 @@ Experienced software engineer with a strong background in developing mobile appl
 
 ### **Work Experience**   
 
-#### **Senior Software Engineer (Flutter)** 
+### **Senior Software Engineer (Flutter)** 
 **Medito Foundation ~ Amsterdam Netherlands (Jan 2023 - Present)**     
 Currently working on Meditation app which has more than 1.6M downloads. The app is developed using Flutter
 - Revamping the app to the latest version of Flutter and improving the app performance and code quality.      
@@ -26,7 +26,7 @@ Currently working on Meditation app which has more than 1.6M downloads. The app 
 
 > ***Skills:*** Flutter, Firebase, Riverpod, Audio Player, Dio, Freezed, Json Annotation, Go Router 
 
-#### **Senior Software Engineer (Flutter & React-Native)**    
+### **Senior Software Engineer (Flutter & React-Native)**    
 **ZEPCOM ~ US All-Shore Staffing (July 2021 - Present)**        
 At Zepcom, I’m working as a senior software engineer. Here I am responsible for developing mobile apps, project estimations, project planning, and sprint planning meetings with clients.  
 - Provide service to their clients and developed many hybrid applications using Flutter and React-Native platforms.   
@@ -38,7 +38,7 @@ At Zepcom, I’m working as a senior software engineer. Here I am responsible fo
 
 > ***Skills:*** Flutter, React-Native, MERN, SQ-Lite, Firebase, Redux, RKT, Hooks, Provider, Bloc, Riverpod, Axios, Dio, Figma, React-Navigation  
 
-#### **Senior Software Engineer Flutter (Contractual)**      
+### **Senior Software Engineer Flutter (Contractual)**      
 **GBK Legal ~ Nuremberg, Bavaria, Germany (Jun 2022 - Jan 2023)**   
 I developed their, TAX refund system. Here, I was responsible for the complete development of the mobile application and its web admin panel.   
 - Designed and developed their TAX refund web & mobile app.   
@@ -50,7 +50,7 @@ I developed their, TAX refund system. Here, I was responsible for the complete d
 
 > ***Skills:*** Flutter, Flutter Web, Firestore, Provider, Dio, Figma, Database design, PDF generator 
 
-#### **Senior Software Engineer Flutter (Contractual)**  
+### **Senior Software Engineer Flutter (Contractual)**  
 **STRAPP ~ New York, USA (Oct 2020 - Jun 2022)**    
 At STRAP, I developed their, social media platform for the University of Michigan, the University of Toronto, and State Michigan University. I was responsible for the complete development of the mobile application, creating a features timeline, and deploying the app on the marketplace.    
 - Improved and developed some features of their previously developed application which was on React-Native TypeScript.    
@@ -63,7 +63,7 @@ At STRAP, I developed their, social media platform for the University of Michiga
 > ***Skills:*** Flutter, Flutter Web, Firestore, Provider, Dio, Figma 
 
 ### **Senior Software Engineer (Flutter & React-Native)**      
-**Weuno Agency. (July 2018 - Aug 2021)**    
+**Weuno Agency ~ (July 2018 - Aug 2021)**    
 At Weuno, I worked as a senior software engineer. Here I worked on many varieties of products including Pakistan's Largest medical chain e-commerce mobile app, auction application and logistic system, etc. I Led the team in several projects and was responsible for delivering products promptly.  
 - Developed Android and IOS applications using Flutter & React-Native, delivered stable, testable, and maintainable apps. 
 - Created project estimations, project plans, and risk assessments for each application in development.   
@@ -74,7 +74,7 @@ At Weuno, I worked as a senior software engineer. Here I worked on many varietie
 > ***Skills:*** Flutter, Flutter Web, React-Native, React, Firestore, Provider, Dio, Figma, Zeplin, Adobe XD, Electron
 
 ### **Software Engineer**   
-**Lunakware Solutions (Jan 2017 - June 2018)**  
+**Lunakware Solutions ~ (Jan 2017 - June 2018)**  
 At Lunakware Solutions, I performed my services as a Mobile developer specializing in React-Native and Flutter. My primary role was developing, testing, and enhancing existing apps and developing scalable apps from scratch. I also worked on PHP CodeIgniter Web applications and provided deployment services to the team.      
 - Developed live ordering system, merchandising application, and ticketing system.    
 - Communicated with clients face to face to gather requirements, explain existing applications, provide suggestions for the expected application, and demonstrated applications on each playback at the client site    
