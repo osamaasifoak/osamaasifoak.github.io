@@ -3,12 +3,13 @@
 #### **Senior Software Engineer**      
  Email: **osama.asif20@gmail.com**  
  phone: **+92-309-2783699**     
-Languages : **English (Fluent)**    
+ Languages: **English (Fluent)**    
 
 ### **Professional Summary**    
 Experienced software engineer with a strong background in developing mobile applications. 5+ years of industry experience includes client meetings, requirements gathering, developing small to large-scale mobile apps, and leading engineering teams to achieve concrete goals on a strict deadline. Strong skills include Flutter, React-Native & MERN.
 
 ### **Work Experience**   
+
 #### **Senior Software Engineer (Flutter)** 
 **Medito Foundation ~ Amsterdam Netherlands (Jan 2023 - Present)**     
 Currently working on Meditation app which has more than 1.6M downloads. The app is developed using Flutter
