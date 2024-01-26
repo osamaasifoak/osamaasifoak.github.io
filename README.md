@@ -6,13 +6,25 @@
  Languages: **English (Fluent)**    
 
 ### **Professional Summary**    
-Experienced software engineer with a strong background in developing mobile applications. 5+ years of industry experience includes client meetings, requirements gathering, developing small to large-scale mobile apps, and leading engineering teams to achieve concrete goals on a strict deadline. Strong skills include Flutter, React-Native & MERN.
+Seasoned software engineer with over 5 years of extensive industry experience specializing in the development of mobile applications. Proficient in conducting client meetings and adept at gathering requirements. Demonstrated success in the creation of both small and large-scale mobile apps. Proven leadership abilities in guiding engineering teams toward achieving tangible objectives within tight deadlines. Possesses expertise in Flutter, React-Native, and MERN technologies.
 
 ### **Work Experience**   
 
+### **Senior Software Engineer (Flutter & React-Native)**    
+**ZEPCOM ~ US All-Shore Staffing (July 2021 - Present)**        
+At Zepcom, I’m working as a senior software engineer. Here I am responsible for developing mobile apps, project estimations, project planning, and sprint planning meetings with clients.  
+- Provide service to their clients and develop many hybrid applications using Flutter and React-Native platforms.   
+- Collaboration with the development team to constantly innovate app functionality and design.    
+- Use tools like Clickup for the project progress and time estimation.    
+- Attend scrum and sprint planning meetings.  
+- Attend client meetings for the requirements gathering and implementation decisions for the development of their applications.   
+- Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency.  
+
+> ***Skills:*** Flutter, React-Native, MERN, SQ-Lite, Firebase, Redux, RKT, Hooks, Provider, Bloc, Riverpod, Axios, Dio, Figma, React-Navigation  
+
 ### **Senior Software Engineer (Flutter)** 
-**Medito Foundation ~ Amsterdam Netherlands (Jan 2023 - Present)**     
-Currently working on Meditation app which has more than 1.6M downloads. The app is developed using Flutter
+**Medito Foundation ~ Amsterdam Netherlands (Jan 2023 - Jan 2024)**     
+Worked on Meditation app which has more than 1.6M downloads. The app is developed using Flutter
 - Revamping the app to the latest version of Flutter and improving the app performance and code quality.      
 - Collaboration with the development team to constantly innovate app functionality and design.    
 - Responsible for creating GitHub tickets, PR, and features timeline. 
@@ -26,18 +38,6 @@ Currently working on Meditation app which has more than 1.6M downloads. The app 
 
 > ***Skills:*** Flutter, Firebase, Riverpod, Audio Player, Dio, Freezed, Json Annotation, Go Router 
 
-### **Senior Software Engineer (Flutter & React-Native)**    
-**ZEPCOM ~ US All-Shore Staffing (July 2021 - Present)**        
-At Zepcom, I’m working as a senior software engineer. Here I am responsible for developing mobile apps, project estimations, project planning, and sprint planning meetings with clients.  
-- Provide service to their clients and developed many hybrid applications using Flutter and React-Native platforms.   
-- Collaboration with the development team to constantly innovate app functionality and design.    
-- Use tools like Clickup for the project progress and time estimation.    
-- Attend scrum and sprint planning meetings.  
-- Attend client meetings for the requirements gathering and implementation decisions for the development of their applications.   
-- Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency.  
-
-> ***Skills:*** Flutter, React-Native, MERN, SQ-Lite, Firebase, Redux, RKT, Hooks, Provider, Bloc, Riverpod, Axios, Dio, Figma, React-Navigation  
-
 ### **Senior Software Engineer Flutter (Contractual)**      
 **GBK Legal ~ Nuremberg, Bavaria, Germany (Jun 2022 - Jan 2023)**   
 I developed their, TAX refund system. Here, I was responsible for the complete development of the mobile application and its web admin panel.   
@@ -45,7 +45,7 @@ I developed their, TAX refund system. Here, I was responsible for the complete d
 - Designed the database schema with the backend team. 
 - Developed dynamic forms and implemented third-party APIs for Sumup for online payment integration.  
 - Developed admin panel using Flutter web which includes (Role-based access, User management, Multiple tax modules, Payment modules, and, chatting system, etc.   
-- Build their mobile app from scratch and deployed it to the marketplaces (Appstore & Playstore). 
+- Build their mobile app from scratch and deploy it to the marketplaces (Appstore & Playstore). 
 - Set up their server environment for the admin panel deployment.     
 
 > ***Skills:*** Flutter, Flutter Web, Firestore, Provider, Dio, Figma, Database design, PDF generator 
@@ -53,7 +53,7 @@ I developed their, TAX refund system. Here, I was responsible for the complete d
 ### **Senior Software Engineer Flutter (Contractual)**  
 **STRAPP ~ New York, USA (Oct 2020 - Jun 2022)**    
 At STRAP, I developed their, social media platform for the University of Michigan, the University of Toronto, and State Michigan University. I was responsible for the complete development of the mobile application, creating a features timeline, and deploying the app on the marketplace.    
-- Improved and developed some features of their previously developed application which was on React-Native TypeScript.    
+- Improved and developed some features of their previously developed application which was developed on React-Native TypeScript.    
 - Revamped their mobile application using Flutter.    
 - Translated the Figma design into a fully functional mobile app. 
 - Implemented deep-linking, dynamic links, and push notifications.    
