@@ -6,7 +6,7 @@
  Languages: **English (Fluent)**    
 
 ### **Professional Summary**    
-Seasoned software engineer with over 5 years of extensive industry experience specializing in the development of mobile applications. Proficient in conducting client meetings and adept at gathering requirements. Demonstrated success in the creation of both small and large-scale mobile apps. Proven leadership abilities in guiding engineering teams toward achieving tangible objectives within tight deadlines. Possesses expertise in Flutter, React-Native, and MERN technologies.
+Seasoned software engineer with over 6 years of extensive industry experience specializing in the development of mobile applications. Proficient in conducting client meetings and adept at gathering requirements. Demonstrated success in the creation of both small and large-scale mobile apps. Proven leadership abilities in guiding engineering teams toward achieving tangible objectives within tight deadlines. Possesses expertise in Flutter, React-Native, and MERN technologies.
 
 ### **Work Experience**   
 
